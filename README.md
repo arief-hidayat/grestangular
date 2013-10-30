@@ -1,0 +1,4 @@
+grestangular
+============
+
+Grails REST AngularJS
